@@ -10,6 +10,12 @@
 	  font-weight: 100;
 	  font-size: 2em;
 	}
+	.center{
+	   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 }
 @media screen and (max-width: 500px) {
 	    .featured-item-link {
